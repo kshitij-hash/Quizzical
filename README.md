@@ -1,5 +1,5 @@
 # Quizzical
-## [Live Demo]()
+## [Live Demo](https://quizitopia.netlify.app/)
 
 ### About
 
